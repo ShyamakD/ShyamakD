@@ -83,6 +83,11 @@ REST APIs
 <a href="mailto:shyamak11.danavale@gmail.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
+<a href="https://medium.com/@shyamak1110" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/3670/3670098.png" height="40" alt="Medium logo"/>
+</a>
+  
+</a>
 
 ### 💼 For Employers
 <a href="https://drive.google.com/file/d/1daeYC58fZDYJC9D1fYFhGOFBiWpvgdcH/view?usp=sharing" target="_blank">
